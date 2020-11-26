@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 358b2ab250e6b7c4282a1cef29a0d919
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arm_Kitten
+    100002: Base
+    100004: claw_b.L
+    100006: claw_b.R
+    100008: claw_f.L
+    100010: claw_f.R
+    100012: ear_1.L
+    100014: ear_1.R
+    100016: ear_2.L
+    100018: ear_2.R
+    100020: eyelid.L
+    100022: eyelid.R
+    100024: foot_b.L
+    100026: foot_b.R
+    100028: foot_f.L
+    100030: foot_f.R
+    100032: head
+    100034: Helper_claw_b.L
+    100036: Helper_claw_b.R
+    100038: Helper_foot_f.L
+    100040: Helper_foot_f.R
+    100042: hip_b.L
+    100044: hip_b.R
+    100046: hip_f.L
+    100048: hip_f.R
+    100050: Kitten_LOD3
+    100052: //RootNode
+    100054: leg_b.L
+    100056: leg_b.R
+    100058: leg_f.L
+    100060: leg_f.R
+    100062: mouth
+    100064: neck
+    100066: root_bone
+    100068: shoulder_blade.L
+    100070: shoulder_blade.R
+    100072: spine_01
+    100074: spine_02
+    100076: spine_03
+    100078: spine_04
+    100080: spine_05
+    100082: Spine_base
+    100084: tail_01
+    100086: tail_02
+    100088: tail_03
+    100090: tail_04
+    100092: tail_05
+    100094: tail_06
+    100096: tongue_01
+    100098: tongue_02
+    100100: tongue_03
+    400000: Arm_Kitten
+    400002: Base
+    400004: claw_b.L
+    400006: claw_b.R
+    400008: claw_f.L
+    400010: claw_f.R
+    400012: ear_1.L
+    400014: ear_1.R
+    400016: ear_2.L
+    400018: ear_2.R
+    400020: eyelid.L
+    400022: eyelid.R
+    400024: foot_b.L
+    400026: foot_b.R
+    400028: foot_f.L
+    400030: foot_f.R
+    400032: head
+    400034: Helper_claw_b.L
+    400036: Helper_claw_b.R
+    400038: Helper_foot_f.L
+    400040: Helper_foot_f.R
+    400042: hip_b.L
+    400044: hip_b.R
+    400046: hip_f.L
+    400048: hip_f.R
+    400050: Kitten_LOD3
+    400052: //RootNode
+    400054: leg_b.L
+    400056: leg_b.R
+    400058: leg_f.L
+    400060: leg_f.R
+    400062: mouth
+    400064: neck
+    400066: root_bone
+    400068: shoulder_blade.L
+    400070: shoulder_blade.R
+    400072: spine_01
+    400074: spine_02
+    400076: spine_03
+    400078: spine_04
+    400080: spine_05
+    400082: Spine_base
+    400084: tail_01
+    400086: tail_02
+    400088: tail_03
+    400090: tail_04
+    400092: tail_05
+    400094: tail_06
+    400096: tongue_01
+    400098: tongue_02
+    400100: tongue_03
+    2100000: Kitten_color
+    4300000: Kitten_LOD3
+    9500000: //RootNode
+    13700000: Kitten_LOD3
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitten_color
+    second: {fileID: 2100000, guid: 4c819cd17a3b04246afbd9eaf412b42f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: root_bone
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
